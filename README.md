@@ -1,47 +1,51 @@
-# Hi, I'm Mbalenhle 👋
+# Hi, I'm Mbalenhle Thenjiwe 👋
 
 ## About Me
 
-I'm a BSc Informatics student with an interest in software
-development, databases, data and technology.
+I am a BSc Informatics student at the University of South Africa (UNISA), building my skills in programming, databases, software development and data.
 
-I'm currently building my technical skills through university
-projects and personal projects.
+I am currently developing my technical skills through university coursework, personal projects and practical applications.
 
 ## 🎓 Education
 
-- BSc Informatics
-- University of South Africa (UNISA)
+**BSc Informatics**  
+University of South Africa (UNISA)
 
 ## 💻 Technical Skills
 
 - Python
 - C++
 - SQL
-- Git & GitHub
 - PyQt
+- Git & GitHub
 - Database Design
 - Data Structures & Algorithms
 
 ## 🚀 Projects
 
-### Student Management System
-Python application for managing student records.
+My portfolio is currently under development.
 
-### Library Management Database
-SQL database demonstrating relational database design,
-queries, joins and normalization.
+Projects coming soon:
 
-### Data Analysis Project
-Python project exploring and visualizing a real-world dataset.
+- Python Applications
+- SQL Database Projects
+- C++ Data Structures & Algorithms
+- PyQt Desktop Applications
+- Data Analysis Projects
 
 ## 📚 Currently Learning
 
-- Python
+- Python Programming
 - C++
-- SQL
-- Data Structures
+- SQL & Database Design
+- Data Structures & Algorithms
 - Software Development
 - Data Analysis
 
+## 🎯 Career Interests
+
+I am interested in building a career in technology, particularly in software development, data and information systems.
+
 ## 📫 Connect With Me
+
+GitHub: [MbalenhleThenjiwe101-hub](https://github.com/MbalenhleThenjiwe101-hub)

@@ -1,51 +1,131 @@
-# Hi, I'm Mbalenhle Thenjiwe 👋
+# Hi, I'm Mbalenhle Thenjiwe Mdakane 👋
 
-## About Me
+### BSc Informatics Student | Python | C++ | SQL | Aspiring Technology Professional
 
-I am a BSc Informatics student at the University of South Africa (UNISA), building my skills in programming, databases, software development and data.
+I am a BSc Informatics student with an interest in software development, information systems and technology.
 
-I am currently developing my technical skills through university coursework, personal projects and practical applications.
+I enjoy building practical applications and developing my programming skills through academic and personal projects.
 
-## 🎓 Education
+---
 
-**BSc Informatics**  
-University of South Africa (UNISA)
+## 🎓 About Me
 
-## 💻 Technical Skills
+- 🎓 Currently studying BSc Informatics
+- 💻 Interested in software development and technology
+- 🐍 Learning and developing with Python
+- ⚙️ Developing applications with C++
+- 🗄️ Learning SQL and database concepts
+- 🖥️ Interested in GUI and desktop application development
+- 📚 Continuously developing my programming and problem-solving skills
 
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
 - Python
 - C++
+
+### Database
 - SQL
-- PyQt
-- Git & GitHub
-- Database Design
-- Data Structures & Algorithms
+- Database design
+- Database management concepts
+
+### GUI Development
+- PyQt5
+- Qt Designer
+- Qt Creator
+
+### Concepts
+- Object-Oriented Programming
+- Inheritance
+- Polymorphism
+- Encapsulation
+- Abstraction
+- Data structures
+- File handling
+- Event-driven programming
+- Form validation
+
+### Tools
+- Git
+- GitHub
+- Anaconda
+- Jupyter Notebook
+- Qt Creator
+- CMake
+
+---
 
 ## 🚀 Projects
 
-My portfolio is currently under development.
+### 🚗 Car Dealership Management System
 
-Projects coming soon:
+**Python | PyQt5 | Qt Designer**
 
-- Python Applications
-- SQL Database Projects
-- C++ Data Structures & Algorithms
-- PyQt Desktop Applications
-- Data Analysis Projects
+A desktop-based graphical user interface application designed to manage different aspects of a car dealership.
 
-## 📚 Currently Learning
+Features include:
+- Login system
+- Vehicle management
+- Customer registration
+- Vehicle booking
+- Form validation
+- Multiple GUI modules
 
-- Python Programming
-- C++
-- SQL & Database Design
-- Data Structures & Algorithms
-- Software Development
-- Data Analysis
+---
+
+### 🚙 Vehicle Rental Management System
+
+**C++ | Qt | Qt Creator | CMake**
+
+A vehicle rental management application developed using C++ and Qt.
+
+Features include:
+- Add vehicles
+- Search for vehicles
+- Display vehicle information
+- Display available vehicles
+- Rent vehicles
+- Return vehicles
+- Remove vehicles
+- Save and load vehicle information
+
+The project demonstrates:
+- Abstraction
+- Inheritance
+- Polymorphism
+- Encapsulation
+- QVector
+- File handling
+
+---
+
+## 📈 Currently Learning
+
+- Advanced C++
+- Python programming
+- SQL and databases
+- Data structures and algorithms
+- GUI application development
+- Software development practices
+
+---
 
 ## 🎯 Career Interests
 
-I am interested in building a career in technology, particularly in software development, data and information systems.
+I am interested in developing my career in technology, particularly in areas involving:
 
-## 📫 Connect With Me
+- Software Development
+- Data and Databases
+- Business Intelligence
+- Information Systems
+- Application Development
 
-GitHub: [MbalenhleThenjiwe101-hub](https://github.com/MbalenhleThenjiwe101-hub)
+---
+
+## 📫 Let's Connect
+
+I am continuously learning, building projects and developing my technical skills.
+
+Thanks for visiting my GitHub profile! 😊
